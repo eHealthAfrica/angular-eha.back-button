@@ -1,6 +1,6 @@
 # angular-eha.back-button
 
-[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.back-button.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.back-button)
+[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.back-button.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.back-button) ![Dependecy Status](https://david-dm.org/eHealthAfrica/angular-eha.back-button.svg) ![Dev Dependecy Status](https://david-dm.org/eHealthAfrica/angular-eha.back-button/dev-status.svg)
 
 Angular.js `<eha-back-button />` Back button directive. Provides a simple interface to `window.history`.
 
