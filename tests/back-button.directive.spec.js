@@ -16,10 +16,9 @@ describe('<eha-back-button></eha-back-button> Directive', function() {
   $log = {
     debug: function() {
     }
-  }
+  };
 
-  beforeEach(module('templates/back-button.directive.tpl.html'));
-  beforeEach(module('eha.back-button.directive', function($provide) {
+  beforeEach(module('eha.back-button', function($provide) {
     $provide.value('$state', $state);
     $provide.value('$window', $window);
     $provide.value('$log', $log);
