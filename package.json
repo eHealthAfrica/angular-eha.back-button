@@ -1,6 +1,6 @@
 {
   "name": "angular-eha.back-button",
-  "version": "3.10.0",
+  "version": "3.10.1",
   "description": "A back button directive providing a simple interface to `window.history` and `$state.go()`",
   "main": "dist/angular-eha.back-button.templates.js",
   "scripts": {
